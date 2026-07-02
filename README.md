@@ -12,6 +12,10 @@ pull off the only heist they're qualified for: breaking in to give everything ba
 | `screenplay/LAST_CALL.md` | The bible. Full feature screenplay with docuseries framing, character bible, theme/tone bible, and Director's Polish Notes. |
 | `direction/VISUAL_BIBLE.md` | The film's complete visual grammar: the two-language war (docuseries vs. reality), color, lens, light, sound, editing rhythm, and the per-set-piece camera plans. |
 | `direction/POLISH_NOTES_DECISIONS.md` | Director's rulings on the three Polish Notes at the end of the screenplay, with options preserved for the writer/producer to overrule. |
+| `direction/SHOT_LIST_ACT_ONE.md` | Full Act One shot list (scene/setup, lens, movement, lighting, blocking, cutting intent) plus a coverage index for the Act 2–3 set pieces. |
+| `direction/STORYBOARD_BRIDGE.md` | 12-panel text storyboard for the bridge scene (Moral Choice #3) with ready-to-use Flux/Midjourney/Runway prompts. |
+| `direction/CASTING.md` | Casting breakdown — two tracks for Dale, 3–5 suggestions per major role, chemistry-test rules, first-offer leans. |
+| `direction/BUDGET_SCHEDULE.md` | $4.5M top sheet, 25-day schedule block plan, descope ladder, and flagged schedule risks. |
 
 ## Directing Principles (non-negotiable)
 
