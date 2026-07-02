@@ -19,6 +19,12 @@ pull off the only heist they're qualified for: breaking in to give everything ba
 | `direction/DECISIONS_LOCKED.md` | The locked creative decisions: first-offer cast board, final Polish Note rulings, rating/runtime targets, the needle-drop. All downstream work inherits these. |
 | `marketing/TRAILER_BEAT_SHEET.md` | Teaser (0:60) and theatrical trailer (2:20) beat sheets cut in the docuseries voice, protected-reveal list, poster program finals. |
 | `marketing/RELEASE_STRATEGY.md` | Positioning, quadrant strategy, festival-to-platform release plan, the three campaign engines, ratings-protection strategy. |
+| `direction/SHOT_LIST_ACTS_TWO_THREE.md` | Full Acts Two & Three setup-level coverage with the `[CLIP]` social-capture tag system and the binding protected-scene register. |
+| `marketing/CLIP_MAP.md` | Short-form strategy: on-set Social B-Body capture rig, clip inventory by campaign function, Kevin singles ladder, innovation ledger, measurement plan. |
+| `PRODUCTION_LOG.md` | Standing directives, locked-decision register, session changelog, open threads. The production's memory. |
+
+**Note:** the screenplay carries the three locked polish revisions (Tommy plant,
+Larry's crack, Act One vice trim) — git history is the revision record.
 
 ## Directing Principles (non-negotiable)
 

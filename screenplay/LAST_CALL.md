@@ -116,7 +116,7 @@ I'm the one sawing it.
 **RICKY**
 And I'm providing cover with charisma. We've been over the division of labor.
 
-*[The saw shrieks. A dog barks somewhere. Ricky does another bump — sniffs hard.]*
+*[The saw shrieks. A dog barks somewhere. Ricky sniffs hard, wipes his nose, resumes "vigilance."]*
 
 **DALE**
 You doing that stuff off your hand again?
@@ -645,7 +645,7 @@ Not now.
 **LARRY**
 The bag came back eleven thousand dollars light. And my mother—
 
-*[The first pause of Larry's that isn't polite. His jaw works once. When he continues, his voice is exactly as pleasant as before, which is worse.]*
+*[The first pause of Larry's that isn't polite. And then — the CRACK: the diner ambience drops out entirely, cutlery and soft-rock radio gone, the first silence Larry has ever occupied. His hand flattens slowly on the table. For two seconds, his face is something no one should see across a breakfast table. Then the ambience fades back in, the hand relaxes, and when he continues, his voice is exactly as pleasant as before, which is worse.]*
 
 **LARRY (CONT'D)**
 My mother came back... heavier.
@@ -798,6 +798,22 @@ No wishes. Burn the lamp.
 **RICKY**
 (nodding slowly)
 See, that's why you're the brains.
+
+*[A beat. Cornfields.]*
+
+**RICKY (CONT'D)**
+(quieter; not a bit anymore)
+I'd only need the one wish anyway.
+
+*[Dale looks over. Ricky's face, for once, isn't doing anything. Then—]*
+
+**RICKY (CONT'D)**
+(recovering; too fast)
+Unlimited bidets.
+
+**DALE**
+(back to the road; letting him have it)
+Obviously.
 
 *[Dale's phone — a burner Dottie forced on him — BUZZES. He looks. His whole body changes. Ricky clocks it.]*
 
