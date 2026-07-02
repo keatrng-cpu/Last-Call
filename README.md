@@ -16,6 +16,9 @@ pull off the only heist they're qualified for: breaking in to give everything ba
 | `direction/STORYBOARD_BRIDGE.md` | 12-panel text storyboard for the bridge scene (Moral Choice #3) with ready-to-use Flux/Midjourney/Runway prompts. |
 | `direction/CASTING.md` | Casting breakdown — two tracks for Dale, 3–5 suggestions per major role, chemistry-test rules, first-offer leans. |
 | `direction/BUDGET_SCHEDULE.md` | $4.5M top sheet, 25-day schedule block plan, descope ladder, and flagged schedule risks. |
+| `direction/DECISIONS_LOCKED.md` | The locked creative decisions: first-offer cast board, final Polish Note rulings, rating/runtime targets, the needle-drop. All downstream work inherits these. |
+| `marketing/TRAILER_BEAT_SHEET.md` | Teaser (0:60) and theatrical trailer (2:20) beat sheets cut in the docuseries voice, protected-reveal list, poster program finals. |
+| `marketing/RELEASE_STRATEGY.md` | Positioning, quadrant strategy, festival-to-platform release plan, the three campaign engines, ratings-protection strategy. |
 
 ## Directing Principles (non-negotiable)
 
