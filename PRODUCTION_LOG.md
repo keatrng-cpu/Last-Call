@@ -67,9 +67,30 @@ session).**
   (premise/voice/sound-meme/character-drop), Kevin singles ladder, the
   six-item innovation ledger, measurement plan.
 
+**Session 5 — Coverage Test Cycle #1 (this session).**
+- Generated-cast bible shipped (production/AI_CAST.md): original AI performers,
+  anchor prompts, expression sheets, screen-test video prompts.
+- Three adversarial coverage reads run in parallel (structure, comedy, heart);
+  25 findings, 22 fixes applied to the screenplay — full record in
+  direction/REVIEW_SYNTHESIS.md. Headline repairs: Act 2 antagonist pressure
+  restored (Larry's GPS call), midpoint dramatized (new craps-table scene),
+  the "more than disappointed" gun fired (negotiation opening), Becca doorstep
+  scene (plants chip + do-over banner), both vices surrendered on the bridge
+  (pour + baggie), Crystal's "off the clock," Dottie's count payoff, Larry's
+  urn beat, title-drop codename, doc outro parade (Kevin EP loop, Jessups in
+  polos, the non-interview).
+- Conflicts adjudicated: pour-out ruled IN (deadpan inoculation + river
+  rhyme); Dottie rent gag ruled OUT (oner pacing); Q3 timeline corrected.
+- New guard-rails: theme stated once only; "Ope" capped at two; the mouse
+  gets no joke; all love speaks ledger.
+- ROADMAP.md added: honest path from repo to released film.
+
 ## OPEN THREADS (next sessions pull from here, oldest first)
 
-1. Storyboards + AI prompts: the un-robbery (SC 11) and the Jessup compound
+1. Test Cycle #2: table-read simulation (per-character voice check) + a
+   fresh-eyes "first viewing" read of the revised draft to confirm the 22
+   fixes play and catch regressions.
+2. Storyboards + AI prompts: the un-robbery (SC 11) and the Jessup compound
    triptych (SC 22) — the two remaining set pieces without boards.
 2. Full production-draft screenplay reformat (proper Fountain/FDX layout)
    once revisions settle.

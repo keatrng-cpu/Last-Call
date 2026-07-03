@@ -77,7 +77,7 @@ FADE IN:
 
 **NARRATOR (V.O.)**
 (gravelly, taking this far too seriously)
-Maumee Flats, Ohio. Population: eleven thousand. Churches: nine. Jobs: unclear. And for one unforgettable year... the epicenter of a crime wave that authorities are still struggling to explain.
+Maumee Flats, Ohio. Population: eleven thousand. Churches: nine. Jobs: unclear. And for one unforgettable autumn... the epicenter of a crime wave that authorities are still struggling to explain.
 
 **INT. DOCUSERIES TALKING HEAD - SHERIFF PACZKI - DAY**
 
@@ -170,7 +170,7 @@ DOTTIE (74, beehive, forearms of a stevedore) pours a beer and a shot in front o
 You two smell like undercarriage.
 
 **RICKY**
-That's success, Dottie. Success smells like undercarriage.
+That's revenue, Dottie. Revenue has a smell.
 
 **DOTTIE**
 Success is forty dollars?
@@ -678,7 +678,17 @@ Because you know what you did when you brought that money back? You showed me ch
 What's in the truck?
 
 **LARRY**
-My mother's estate. Furniture. Antiques. Her whole house, packed with love, going to my sister. And you two are going to drive it there, unload it, and come straight back — no stops, no detours, no creative interpretations — and when you do, the eleven thousand is forgiven, and the matter of the urn...
+My mother's estate. Furniture. Antiques. Her whole house, packed with love, going to my sister. She never threw a thing away — the estate fellow tagged the lot, said one or two pieces might be worth real money.
+
+*[He straightens a napkin that was already straight.]*
+
+**LARRY (CONT'D)**
+I couldn't bring myself to read his little stickers.
+
+(brightening; back to business)
+
+**LARRY (CONT'D)**
+And you two are going to drive it there, unload it, and come straight back — no stops, no detours, no creative interpretations — and when you do, the eleven thousand is forgiven, and the matter of the urn...
 
 *[He looks out the window. A muscle in his cheek.]*
 
@@ -732,6 +742,16 @@ Dale.
 (beat; honestly)
 I can't explain it in advance, Dottie. That's not how we work. It reveals itself.
 
+**DOTTIE**
+Then let me be part of the reveal. If Larry Gunderson kills you, I am not doing two funerals. I will put you both in the pull-tab jar and I will keep selling pull tabs.
+
+**RICKY**
+(genuinely moved)
+...You'd keep us at the bar?
+
+**DOTTIE**
+Get in the truck.
+
 *[Kevin jogs up with his laptop, breathless.]*
 
 **KEVIN**
@@ -747,6 +767,14 @@ Forty streams.
 (to Dale, urgently)
 That's viral. Locally, that's viral.
 
+**KEVIN**
+Also the lounge at the Riverwind casino licensed it. For the speakers. That's a SYNC deal. I have representation now.
+
+(beat)
+
+**KEVIN (CONT'D)**
+It's my cousin.
+
 *[Kevin hits play on the laptop. A beat drops — noticeably better production. The $11,000 microphone.]*
 
 **KEVIN'S TRACK (V.O.)**
@@ -757,6 +785,20 @@ That's viral. Locally, that's viral.
 He's getting better. That's the upsetting part.
 
 *[The truck pulls out. Mr. Business watches from the dumpster. HOLD on the raccoon a beat too long — an omen.]*
+
+CUT TO:
+
+**INT. DOCUSERIES TALKING HEAD - MERLE (REGULAR, 40 YEARS) - DAY**
+
+Trucker cap. A man who has never once been in a hurry.
+
+**MERLE**
+The week it all happened? Mr. Business would not come out of that dumpster. Not for trash night. Not for nothing.
+
+(leans in)
+
+**MERLE (CONT'D)**
+Same as before the plant closed in '09. That raccoon has never once been wrong about the economy.
 
 CUT TO:
 
@@ -873,6 +915,20 @@ Dale. When have I ever—
 
 *[TITLE CARD: "SEVEN HOURS LATER." Bacchanal lighting. Ricky at a craps table wearing a cowboy hat that is not his, surrounded by strangers chanting "DOM-I-NIC! DOM-I-NIC!" He has told them his name is Dominic.]*
 
+CUT TO:
+
+**INT. DOCUSERIES TALKING HEAD - PIT BOSS, RIVERWIND CASINO - DAY**
+
+Immaculate suit. The weariness of a man who has seen everything twice.
+
+**PIT BOSS**
+Seven hours. Bought drinks for a bachelorette party, tipped the dealer in scratchers, put a moving truck in a pot — which is not a thing we allow, and we allowed it. Afterward we ran his player's card. There is no Dominic. There has never been a Dominic.
+
+(beat)
+
+**PIT BOSS (CONT'D)**
+I hope he's okay.
+
 *[INTERCUT WITH:]*
 
 **INT. SIR CHEESE-A-LOT - AFTERNOON (EARLIER)**
@@ -928,7 +984,32 @@ What is wrong with you?
 (mouthing back)
 Everything. Working on it.
 
-*[His phone BUZZES. And BUZZES. He looks: 14 MISSED CALLS — RICKY. Then a text: a photo of Ricky in the cowboy hat holding the TRUCK KEYS above a poker pot, thumbs up, caption: "COLLATERAL BABY. CANT LOSE."]*
+*[The burner RINGS. Not Ricky — the screen says FLAPJACK. Dale steps behind the ball pit to take it, paper plate of cake in his other hand.]*
+
+**LARRY (V.O.)**
+(through the phone; diner cutlery clinking gently behind his voice)
+Dale! Just checking the boys are enjoying the drive.
+
+**DALE**
+Smooth sailing, Larry.
+
+**LARRY (V.O.)**
+Good. Good. Funny thing — that truck has one of those GPS units. Insurance makes you. And it shows my mother's furniture parked at the Riverwind casino going on six hours.
+
+*[Dale looks at Emma through the glass. His face does not change. This is the best acting of his life.]*
+
+**DALE**
+Must be broken.
+
+**LARRY (V.O.)**
+Must be.
+
+(a pause with weather in it)
+
+**LARRY (V.O.) (CONT'D)**
+Dale? I hope it's broken.
+
+*[Click. And THEN — the phone BUZZES. And BUZZES. He looks: 14 MISSED CALLS — RICKY. Then a text: a photo of Ricky in the cowboy hat holding the TRUCK KEYS above a poker pot, thumbs up, caption: "COLLATERAL BABY. CANT LOSE."]*
 
 *[PUSH IN on Dale's face. The muscle in his jaw is Larry's muscle now.]*
 
@@ -947,6 +1028,55 @@ Becca—
 You showed up sober, Dad. You were doing so good. Forty-five whole minutes.
 
 *[He can't answer. He kisses Emma's head, and goes. SHOOT HIS EXIT WIDE: one man walking out of a birthday party through a sea of joy, an animatronic mouse singing him out. Comedy framing, tragedy content.]*
+
+CUT TO:
+
+**INT. RIVERWIND CASINO - CRAPS TABLE - NIGHT (MEANWHILE)**
+
+*[Chaos grammar. Ricky at the rail in the cowboy hat, up big, holding court. Across the table, wrong in every way, like camo in a casino, because it is camo in a casino: THE JESSUP TWINS.]*
+
+**TALL DARRYL**
+Look who it is. The storage-unit boys.
+
+**RICKY**
+(gracious; a king among subjects)
+Darryl. Darryl.
+
+**TALL DARRYL**
+You know what everybody back home says? You didn't even do that job. Returned money don't count. No offense — you're frauds.
+
+**SHORT DARRYL**
+Offense. He means offense.
+
+**RICKY**
+We DID that job. We did it TWICE. Forward AND backward. Show me one other crew in this county with a body of work—
+
+*[And then — the lounge speakers. A familiar beat drops. THE SNACK-BACK SONG. Licensed. For the speakers.]*
+
+**LOUNGE SPEAKERS (V.O.)**
+♪ Gave the money back like cowards, call that a snack-back ♪
+
+*[Laughter. Everywhere. The bachelorette party points at him. HOLD on Ricky's face: the exact moment a man's soul steps out and something dumber takes the wheel.]*
+
+**TALL DARRYL**
+(leaning in; the kill)
+They're playing your song... Dominic.
+
+**RICKY**
+(quiet; a terrible calm)
+Cash plays. So does collateral.
+
+*[The TRUCK KEYS arc into the pot, catching the light — the same arc we just saw frozen in Dale's photo. Nobody stops him. Somewhere, a pit boss watches and allows catastrophe, per policy.]*
+
+**SHORT DARRYL**
+(to Tall, low)
+What do we want with a pancake truck?
+
+**TALL DARRYL**
+(eyes never leaving Ricky)
+Everything, Darryl. It's not about the truck.
+
+*[The river card turns. We don't see it. We see Ricky's face. That's worse.]*
 
 CUT TO:
 
@@ -1022,6 +1152,11 @@ Okay. I'm going to say the thing, since apparently I'm the only one here who isn
 
 **CRYSTAL (CONT'D)**
 You know what he spends the money on? With me? He doesn't. We sit in a Perkins and he talks. Eleven months. Eleven months of pancakes and talking, billed hourly, because your friend is so lonely he pays retail for someone to hear about his dead brother.
+
+(beat)
+
+**CRYSTAL (CONT'D)**
+Month nine I moved him to the friends-and-family rate. He is the only client I have ever discounted. Do not tell him. It is the closest thing I have to a love language and it ruined my Q3.
 
 **DALE**
 (blindsided; softly)
@@ -1106,7 +1241,28 @@ The ball pit.
 **RICKY**
 That's — Dale, that's fourteen hours. You haven't been sober fourteen hours since the CLINTON administration. Are you — is this safe? Should you be planning things? Say something mean, you're freaking me out.
 
+*[Ricky's already digging in Crystal's glovebox — pure reflex, thirty years of reflex.]*
+
+**RICKY (CONT'D)**
+There's gotta be a pint of something in here — you could just take the edge off—
+
+*[He stops. Looks at his own hand like it belongs to someone else. Closes the glovebox.]*
+
+**RICKY (CONT'D)**
+(quietly)
+No. Forget it. Keep the edge.
+
 **DALE**
+(eyes never leaving the compound)
+That's the best thing you've ever done for me.
+
+**RICKY**
+I've done a lot of great things for you—
+
+**DALE**
+That was the one.
+
+**DALE (CONT'D)**
 (eyes on the compound; a machine coming online)
 There are two of them and three of us. The dog's chained on the east side. Tall Darryl sleeps in the truck cab because he thinks possession is nine-tenths of the law, which, tragically for him, it is not. Short Darryl is in the double-wide with the good rifle and the bad cardio.
 
@@ -1184,6 +1340,31 @@ CUT TO:
 
 *[Golden hour, finally — the film's first truly beautiful light, earned. Dale drives. Ricky rides shotgun. Crystal's Camry escorts behind. Toledo: 40 miles.]*
 
+*[And then — red-blues in the mirror. The truck pulls over. Both men sit very still, the stillness of men with a stolen-then-unstolen truck and no sleep. SHERIFF PACZKI appears at the window with a flashlight.]*
+
+**PACZKI**
+Dale. Richard.
+
+**RICKY**
+Sheriff, we can explain—
+
+**PACZKI**
+Is this Larry Gunderson's truck?
+
+**DALE**
+Yes.
+
+**PACZKI**
+(clicking off the flashlight)
+Then whatever is happening here is between you, him, and God, and none of those three fill out forms.
+
+*[He taps the roof twice, already walking off.]*
+
+**PACZKI (CONT'D)**
+Taillight's out. I don't care.
+
+*[The truck pulls back onto the road. Golden hour resumes as if nothing happened, because in this county, nothing did.]*
+
 *[Ricky climbs back through the cab passage into the cargo box, checking Evelyn's estate for damage. Furniture, doilies, boxes labeled "KITCHEN — FRAGILE — LOVE YOU LARRY BEAR." Then he freezes.]*
 
 **RICKY**
@@ -1206,6 +1387,22 @@ Nothing. Come look at what's NOT broken.
 **RICKY (CONT'D)**
 Two hundred thousand dollars, Dale. There's a goose lady in the truck worth two hundred grand and I don't think Larry knows.
 
+CUT TO:
+
+**INT. DOCUSERIES TALKING HEAD - REGINALD PRICE (REGIONAL AUCTIONEER) - DAY**
+
+Bow tie. Behind him, a framed poster of himself.
+
+**REGINALD**
+Evelyn Gunderson owned a Hulda Brandt original. *The Goose Wife.* Regional folk masterwork. Nobody in that family had the faintest idea what was in that house.
+
+(beat)
+
+**REGINALD (CONT'D)**
+I sent letters. I sent SO many letters.
+
+CUT TO:
+
 *[MORAL CHOICE BEAT #3 — THE BRIDGE. And stage it there:]*
 
 **EXT. MAUMEE RIVER BRIDGE - DAWN**
@@ -1219,7 +1416,7 @@ Two hundred grand. Florida. You always said Florida was for morons—
 It is.
 
 **RICKY**
-We're MORONS, Dale! We'd FIT! Boat drinks! I become Dominic! You become — I don't know, you keep being Dale, Dale travels—
+We're MORONS, Dale! We'd FIT! Boat drinks! I become Dominic! You become — nothing, Florida can't fix Dale. You'd just be you, but humid—
 
 **DALE**
 And Emma?
@@ -1232,6 +1429,22 @@ And Emma?
 **DALE**
 (looking at the water)
 Fifteen hours sober, Ricky. You know what I figured out in the last fifteen hours? I've been drinking so I didn't have to do the math. The math on Becca. The math on thirty years of forty-dollar nights. Fifteen hours and I can suddenly count, and I hate it, and I am not going to Florida to lose count again.
+
+*[Dale takes out the flask. The cap-unscrew — the same tiny foley we've heard all film — and Ricky flinches like it's a gun cocking. Dale holds it over the rail and pours. They both watch the whiskey fall sixty feet into the Maumee.]*
+
+**RICKY**
+Should we say something?
+
+**DALE**
+It was well whiskey, Ricky. It knew what it was.
+
+*[Dale screws the cap back on. Pockets the empty flask.]*
+
+**RICKY**
+You're keeping the flask?
+
+**DALE**
+It was my dad's. The flask didn't do anything.
 
 (beat)
 
@@ -1251,7 +1464,7 @@ I threw the party, Dale.
 (gently; the whole friendship in one line)
 You didn't kill him, Ricky. But this thing you're doing? It's not keeping him company either.
 
-*[Ricky looks at the painting. The goose lady stares back, stern, disappointed — she is, in this light, weirdly Larry-like. Ricky exhales thirty years.]*
+*[Ricky looks at the painting. The goose lady stares back, stern, disappointed — she is, in this light, weirdly Larry-like. Ricky exhales thirty years. Then — no speech, no score, no underline — he works the little baggie out of his shirt pocket, looks at it the way he has never looked at anything, and flicks it over the rail. The river takes it, same as the whiskey. Dale watches. Says nothing. Which is everything.]*
 
 **RICKY**
 (handing Dale the painting)
@@ -1265,13 +1478,92 @@ Codename?
 (already walking to the truck)
 "Operation Goose Lady."
 
+*[At the vehicles, Crystal pushes off her car door. Ricky, still lit up:]*
+
+**RICKY (CONT'D)**
+You saw that, right? Two hundred grand. I handed it BACK. Who does that?
+
+**CRYSTAL**
+An idiot.
+
+(beat)
+
+**CRYSTAL (CONT'D)**
+Get in. I'll drive you the rest of the way.
+
+**RICKY**
+...How much?
+
+**CRYSTAL**
+(getting in; not looking at him)
+This one's off the clock.
+
+*[HOLD on Ricky. Eleven months of hourly billing just ended. For once in his life — nothing to say.]*
+
+CUT TO:
+
+**EXT. LARRY'S SISTER'S HOUSE - TOLEDO - MORNING**
+
+*[QUICK BEATS: the truck unloading at a tidy brick house. Two men carrying a floral sofa with the tenderness of pallbearers. Every box marked "LOVE YOU LARRY BEAR" handled like ordnance. The SISTER (60s, Larry's face on a kinder setting) counts pieces off a list, finds it all there, and — to their visible terror — hugs them both.]*
+
+CUT TO:
+
+**EXT. BECCA'S HOUSE - TOLEDO - MORNING**
+
+*[A small house, a big tree, a bike in the yard. The truck at the curb — Ricky and Crystal conspicuously staying in it. Dale at the door. Becca opens it with the chain on.]*
+
+**BECCA**
+You can't keep doing this to her.
+
+**DALE**
+I know. I'm not here to come in. I'm here to say one sentence and leave.
+
+(beat)
+
+**DALE (CONT'D)**
+I'm going to stop being "you know." I don't expect you to believe me. Twenty years of Saturdays says you shouldn't.
+
+**BECCA**
+Then why say it?
+
+**DALE**
+Because I can count now. And I owe you the number.
+
+*[He goes. Down the steps, toward the truck. She watches him the whole way — and then, despite herself, through the chain gap:]*
+
+**BECCA**
+Emma wants a do-over. Her words, not mine.
+
+(beat)
+
+**BECCA (CONT'D)**
+Ninety days, Dad. Show up with something that proves it.
+
+*[Dale stops. Doesn't turn around — if he turns around he'll wreck it. One nod. Gets in the truck.]*
+
 CUT TO:
 
 **INT. FLAPJACK CABIN - CORNER BOOTH - DAY**
 
-*[Same booth. Same laminated menus. But this time the guys sit up straight, showered, and Dale's hands only shake a little. Larry examines the truck manifest, then the painting, then the appraisal letter. A long silence.]*
+*[Same booth. Same laminated menus. But this time the enforcers are not by the door. They are IN the booth — one on each side, boxing the guys in. The guys sit up straight, showered, and Dale's hands only shake a little. Larry examines the truck manifest, then the painting, then the appraisal letter. A long silence.]*
 
 **LARRY**
+I've seen my truck, fellas. It says "JESSUP BOYS" on the side now. In what I can only describe as a hostile font.
+
+**RICKY**
+We can explain the font—
+
+**LARRY**
+I found the Jessup boys. They apologized.
+
+*[He folds his reading glasses. A silence with a basement in it.]*
+
+**LARRY (CONT'D)**
+Eventually.
+
+*[Neither guy asks. Larry lets it sit exactly long enough, then taps the appraisal letter.]*
+
+**LARRY (CONT'D)**
 You had this in your hands. On a bridge. With a full tank.
 
 **DALE**
@@ -1294,6 +1586,18 @@ He'll stop talking.
 **LARRY**
 (looking at the urn a long time; when he speaks, his voice is one degree less pleasant — which is to say, human)
 She used to say the only honest men left in Ohio were the ones too dumb to lie right.
+
+*[Larry draws the urn to his side of the table. His hand comes to rest flat on the lid — the same hand that flattened on this table in this booth, arriving somewhere gentle this time. The diner ambience stays. That's how we know he's all right.]*
+
+**LARRY (CONT'D)**
+The dog. Was he a good dog?
+
+**DALE**
+The best I ever knew.
+
+**LARRY**
+(a small nod; to the urn, almost)
+She'd have liked that. She never trusted a man who didn't keep one.
 
 (he slides the appraisal letter into his sweater vest)
 
@@ -1324,6 +1628,44 @@ Think of it this way: would your mother rather have another pancake restaurant..
 (to the enforcers, pleasantly)
 Fellas — get the paperwork.
 
+*[One enforcer produces a slim briefcase. The other speaks for the first time in the film.]*
+
+**ENFORCER**
+I'll need two forms of ID and a witness who isn't a felon.
+
+*[Everyone looks at Brenda. Brenda crosses herself with the coffee pot.]*
+
+**DALE**
+(quiet, to Ricky)
+He talks.
+
+**ENFORCER**
+When it's notary business.
+
+**RICKY**
+(hand up, schoolboy)
+What's the codename?
+
+**DALE**
+It's a real estate closing, Ricky. It doesn't get a—
+
+**LARRY**
+(not looking up from the paperwork)
+"Operation Last Call."
+
+*[Beat. Ricky grips the table.]*
+
+**RICKY**
+(whispering, wrecked)
+He's been listening. The whole time. He's one of us.
+
+**DALE**
+He's really not.
+
+**LARRY**
+(pleasantly)
+I'm really not.
+
 (to Dale and Ricky)
 
 **LARRY (CONT'D)**
@@ -1341,17 +1683,30 @@ CUT TO:
 
 *[TRACK THROUGH THE ROOM, one unbroken take, the whole world in one shot:]*
 
-*[— Emma, in her cape, shows the catalytic converter to other kids like a museum docent. — Becca at the bar, laughing at something Dottie said, actually here. — Crystal doing the books at the register, a NIGHT SCHOOL diploma framed crooked above the till; Ricky brings her coffee, kisses her head, she bills him for it, he pays. — Kevin at the mic performing his new track — and it's grudgingly, unmistakably a tribute:]*
+*[— Emma, in her cape, shows the catalytic converter to other kids like a museum docent. — Becca at the bar, laughing at something Dottie said, actually here. — Sheriff Paczki, in uniform, at the end of the bar with two beers and zero paperwork. — Crystal doing the books at the register, a NIGHT SCHOOL diploma framed crooked above the till, and beside it, a curling photo of two boys, 1980s, taped to the mirror; Ricky brings her coffee, kisses her head, she bills him for it, he pays — and his eyes pause on the photo, every time, on purpose. — Kevin at the mic performing his new track — and it's grudgingly, unmistakably a tribute:]*
 
 **KEVIN**
 ♪ They gave it all back, kept the bar and the crew / Dumbest legends in Ohio — and the story's even true ♪
 
-*[— Larry, at the corner booth, sweater vest, eating for free, tipping anyway. — Out the back window: MR. BUSINESS on the dumpster, wearing a tiny vest that someone (Ricky) has clearly made him. The bar raises a glass to him.]*
+*[— Larry, at the corner booth, sweater vest, eating for free, tipping anyway, a bottle of boysenberry on the table that Dottie now stocks for exactly one customer. — Out the back window: MR. BUSINESS on the dumpster, wearing a tiny vest that someone (Ricky) has clearly made him. Larry notices him. The two regard each other through the glass — a summit between regional operators. Larry raises his coffee one inch. The raccoon holds his gaze. The bar raises a glass to him.]*
 
 **ALL**
 Mr. Business.
 
 *[The camera lands at the bar. Dottie sets down two glasses in front of Dale and Ricky. Dale's is coffee. It's always coffee now. From his pocket, Dale takes THE FLASK — his father's flask — unscrews it, and shakes out onto the bar top: a 90-DAY SOBRIETY CHIP. That's what it carries now.]*
+
+**DOTTIE**
+(gruff; barely stopping)
+Thirty years I kept your count, Dale Kowalski.
+
+**DALE**
+I know you did.
+
+**DOTTIE**
+(a nod at the chip)
+Somebody else's turn.
+
+*[One dockworker squeeze of his wrist — gone before anyone can call it a moment — and she's already down the bar, yelling at Kevin about the mic cable.]*
 
 **RICKY**
 (raising his glass — ginger ale, we notice; nobody comments, which is the point)
@@ -1359,13 +1714,67 @@ One for the road?
 
 **DALE**
 (raising the coffee; the last deadpan)
-We own the road now, Ricky. It's just "one."
+We own the road.
 
 *[They clink. HOLD on the two of them in the amber light — two hard-ass idiots who gave everything back and somehow ended up with all of it.]*
 
 **NARRATOR (V.O.)**
 (docuseries synth swelling one last time)
-The Maumee Flats crime wave ended as mysteriously as it began. The perpetrators were never charged.
+The Maumee Flats crime wave ended as mysteriously as it began. The perpetrators were never charged. And the legend began, as legends now do... on SoundCloud.
+
+**INT. DOCUSERIES TALKING HEAD - KEVIN - DAY**
+
+*[Chyron: "KEVIN — Recording Artist / Primary Source / Executive Producer."]*
+
+**KEVIN**
+People ask when I knew the story was big. I had nine followers when this started.
+
+(beat)
+
+**KEVIN (CONT'D)**
+Eleven. I had eleven.
+
+(beat; quiet triumph)
+
+**KEVIN (CONT'D)**
+I have three hundred and four now. A label called. Technically it was a waitlist. Also — producer on this documentary. Executive. It's a tier.
+
+**EXT. DOCUSERIES FOOTAGE - JESSUP COMPOUND - DAY**
+
+*[The tarp empire is gone. A sign: "FUTURE HOME OF FLAPJACK CABIN #15." THE JESSUP TWINS, in Flapjack Cabin polo shirts, carry lumber. They do not wave at the camera.]*
+
+**SHORT DARRYL**
+(yelling from the site)
+We get one free short stack a shift. ONE.
+
+**TALL DARRYL**
+(quietly, passing with lumber)
+Don't. He's not done paying for the rifle.
+
+**INT. DOCUSERIES TALKING HEAD - DALE AND RICKY - DAY**
+
+*[Two folding chairs. Ricky has dressed up. Dale has not.]*
+
+**RICKY**
+We can't discuss the events in question. Legally. But hypothetically—
+
+**DALE**
+No.
+
+**RICKY**
+—hypothetically, if two men DID pull off the greatest un-robbery in Ohio history—
+
+**DALE**
+We run a bar.
+
+**RICKY**
+—those men would be humble. Local. Available for speaking engagements—
+
+**DALE**
+(standing, exiting frame)
+He'll stop talking.
+
+*[CHYRON, over the footage of the interview we are watching: "Dale Kowalski and Ricky Fontaine declined to be interviewed."]*
 
 **INT. DOCUSERIES TALKING HEAD - SHERIFF PACZKI - DAY**
 
